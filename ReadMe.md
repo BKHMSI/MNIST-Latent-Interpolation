@@ -22,7 +22,7 @@ You can choose any range of numbers from 0-9 to create the GIF.
 </table>
 
 ## Quick Usage
-You need to first download this [pre-trained model]("https://drive.google.com/file/d/1duzTd7HGFt-2AKlXOU9sOFZpJ6dcV1Fb/view?usp=sharing") to begin generating your own GIFs.
+You need to first download this [pre-trained model](https://drive.google.com/file/d/1duzTd7HGFt-2AKlXOU9sOFZpJ6dcV1Fb/view?usp=sharing) to begin generating your own GIFs.
 
 Then simply run the following:
 ```
